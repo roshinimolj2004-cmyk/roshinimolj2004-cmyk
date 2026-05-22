@@ -1,16 +1,40 @@
-## Hi there 👋
-
-<!--
-**roshinimolj2004-cmyk/roshinimolj2004-cmyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+## 🚀 About Me
+Aspiring AI & Data Science Engineer passionate about:
+- Machine Learning
+- Deep Learning
+- NLP
+- Data Analytics
+- Python Development
+
+---
+
+## 🛠 Skills
+- Python
+- Machine Learning
+- Deep Learning
+- NLP
+- Power BI
+- SQL
+- Pandas
+- TensorFlow
+
+---
+
+## 📂 Projects
+
+### 🔹 Spam Detection System
+Machine learning project to classify spam messages.
+
+### 🔹 House Price Prediction
+Regression model using Python and Scikit-learn.
+
+### 🔹 NLP Chatbot
+Simple chatbot using NLP techniques.
+
+### 🔹 YOLO Image Classification
+Computer vision classification project.
+
+---
+
+
